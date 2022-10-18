@@ -50,7 +50,7 @@
     "randexp": "0.4.5",
     "semver": "5.3.0",
     "shelljs": "0.7.7",
-    "yeoman-generator": "1.1.1",
+    "yeoman-generator": "5.0.0",
     "yo": "1.8.5"
   },
   "devDependencies": {
